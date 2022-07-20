@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "terser": "^4.2.1",
+    "terser": "^4.8.1",
     "webpack": "^4.27.1",
     "webpack-cli": "^3.1.2"
   }
